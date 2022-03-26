@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mahesh/static/css/main.475cf368.css",
+    "main.js": "/mahesh/static/js/main.6cb3a3d8.js",
+    "static/js/787.2be20243.chunk.js": "/mahesh/static/js/787.2be20243.chunk.js",
+    "static/media/gdn view.jpeg": "/mahesh/static/media/gdn view.d50843870a79d76e3ad5.jpeg",
+    "static/media/fb.JPG": "/mahesh/static/media/fb.6c73c3b161673cb87476.JPG",
+    "static/media/lg2.JPG": "/mahesh/static/media/lg2.2af8404a8618065293bf.JPG",
+    "static/media/lg1.JPG": "/mahesh/static/media/lg1.b5bfffd47dd78a00158c.JPG",
+    "static/media/main.JPG": "/mahesh/static/media/main.0f7d8e5a445738295bd6.JPG",
+    "static/media/apple img.JPG": "/mahesh/static/media/apple img.c7022e7003e01d87c3c6.JPG",
+    "static/media/gg image.JPG": "/mahesh/static/media/gg image.7af57db410f5e0fe4ff8.JPG",
+    "index.html": "/mahesh/index.html",
+    "main.475cf368.css.map": "/mahesh/static/css/main.475cf368.css.map",
+    "main.6cb3a3d8.js.map": "/mahesh/static/js/main.6cb3a3d8.js.map",
+    "787.2be20243.chunk.js.map": "/mahesh/static/js/787.2be20243.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.475cf368.css",
+    "static/js/main.6cb3a3d8.js"
+  ]
+}
